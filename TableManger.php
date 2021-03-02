@@ -8,9 +8,6 @@ define('DB_CONNECT', [
     "db_name" => "mail",
 ]);
 
-// Get config
-require_once '../config.php';
-
 class TableManager
 {
 
